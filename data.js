@@ -57,7 +57,7 @@ const portfolioData = {
     description: "I am currently open to internships and collaborative projects. Feel free to reach out via email or connect on professional platforms.",
     email: "kinalik@mef.edu", 
     // --- Personal Contacts (Revealed via Easter Egg) ---
-    phone: "+90 5XX XXX XX XX",
+    phone: "+90 532 301 32 93",
     instagram: "https://instagram.com/yourhandle",
     social: {
       linkedin: "https://www.linkedin.com/in/kahraman-kinali/",
