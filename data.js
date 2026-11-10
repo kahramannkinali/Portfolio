@@ -41,7 +41,7 @@ const portfolioData = {
       category: "Solo Project / 3D Printing",
       description: "Parts&Prints is my solo 3D printing service. If you need a custom part for a specific task, I will design it, print it and send it to you. Or if you found a model online and want it in real life but don't own a 3D printer, I can simply print the existing file for you.",
       technologies: ["3D Design", "3D Manufacturing"],
-      link: "https://kahramannkinali.github.io/3D-siparis-/" 
+      link: "https://kahramannkinali.github.io/PartsandPrints/" 
     }
   ],
   // --- CV / Resume Section ---
